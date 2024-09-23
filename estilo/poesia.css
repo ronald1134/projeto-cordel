@@ -53,6 +53,7 @@ section{
 
 
 .imagem{
+    max-width: 100%;
     background-size: cover;
     background-position: left center;
     background-repeat: no-repeat;
